@@ -2,7 +2,8 @@ rencana pemrogramanku :
 - HTML
 - CSS
 - JAVASCRIPT (ES5)
-  ^
+  ^Vue
+   ^React
 - PHP
   ^PHP 7
 - LARAVEL
