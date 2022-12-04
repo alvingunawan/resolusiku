@@ -1,0 +1,7 @@
+rencana pemrogramanku :
+- HTML
+- CSS
+- JAVASCRIPT
+- PHP
+- LARAVEL
+- DART dan FLUTTER
