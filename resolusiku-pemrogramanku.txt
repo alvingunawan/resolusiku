@@ -2,10 +2,11 @@ rencana pemrogramanku :
 - HTML
 - CSS
 - JAVASCRIPT (ES5)
-  ^Angular
-  ^React
+  ^Vue
+   ^React
 - PHP
-  ^Laravel
+  ^PHP 7
 - LARAVEL
 - Codeigniter 4
 - Hosting Online
+- Game Interaktif
