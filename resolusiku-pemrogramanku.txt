@@ -1,7 +1,8 @@
 rencana pemrogramanku :
 - HTML
 - CSS
-- JAVASCRIPT
+- JAVASCRIPT (ES5)
 - PHP
 - LARAVEL
 - DART dan FLUTTER
+- Hosting Online
