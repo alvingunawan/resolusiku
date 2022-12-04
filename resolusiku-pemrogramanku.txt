@@ -5,4 +5,5 @@ rencana pemrogramanku :
 - PHP
 - LARAVEL
 - DART dan FLUTTER
+- Codeigniter 4
 - Hosting Online
