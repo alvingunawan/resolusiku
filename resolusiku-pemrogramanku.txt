@@ -1,12 +1,13 @@
-rencana pemrogramanku :
+Rencana pemrogramanku :
 - HTML
-- CSS
-- JAVASCRIPT (ES5)
-  ^Vue
-   ^React
-- PHP
-  ^PHP 7
-- LARAVEL
-- Codeigniter 4
-- Hosting Online
-- Game Interaktif
+- CSS Dasar
+- CSS Layouting
+- CSS 3
+- Framework Bootstrap
+- Flexbox
+- CSS Grid
+- PHP Pemula
+- PHP Dasar OOP
+- Aplikasi PHP dengan MVC
+- Laravel 8
+- Rest API
